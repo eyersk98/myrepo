@@ -9,3 +9,8 @@ second test to commit changes from github
 
 #Test 2.1
 added spacing to github code
+
+#Test 3
+adding in variable 
+x <- 5
+x
