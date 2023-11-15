@@ -11,6 +11,6 @@ second test to commit changes from github
 added spacing to github code
 
 #Test 3
-adding in variable 
-x <- 5
-x
+#Test 4 
+Removing vairable
+Test 4 to remove x variable on Github
